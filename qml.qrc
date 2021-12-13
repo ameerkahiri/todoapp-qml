@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MainFrame.qml</file>
+    </qresource>
+    <qresource prefix="/Sub_MainFrame">
+        <file>TitleFrame.qml</file>
+        <file>AddNewTaskFrame.qml</file>
+        <file>AddedTaskFrame.qml</file>
+    </qresource>
+    <qresource prefix="/Repeater">
+        <file>AddedTaskElement.qml</file>
+    </qresource>
+</RCC>

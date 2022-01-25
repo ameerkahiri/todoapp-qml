@@ -6,6 +6,8 @@ import QtQuick.Layouts 1.3
 
 QtObject {
 
+    property int textSize: 20
+
     property QtObject rectBorder : QtObject {
 //        property Rectangle none: Rectangle {
 //            border.color: none
@@ -31,3 +33,4 @@ QtObject {
         }
     }
 }
+

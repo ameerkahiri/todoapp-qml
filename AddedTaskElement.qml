@@ -46,6 +46,8 @@ Frame {
 
                 Label {
                     id: addedTaskName
+                    font.pixelSize: 13
+                    font.bold: true
                     color: "white"
                     Layout.fillWidth: true
                     text: model.mtaskName
